@@ -1,4 +1,5 @@
-# EXERCICIO-DO-WHILE
+PROGRAMA - C: 
+# EXERCICIO-DO-WHILE - ADVINHAR O NÚMERO / NÚMERO ALEATÓRIO
 
     
     #include <stdio.h>
